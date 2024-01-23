@@ -87,12 +87,6 @@ body::before{
     font-weight: 500;
 }
 
-.container .calculadora .clear{
-    grid-column: span 2;
-    width: 150px;
-    background: rgba(255, 255, 255, 0.05);
-
-}
 
 .container .calculadora .plus{
     grid-row: span 2;
